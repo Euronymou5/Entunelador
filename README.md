@@ -6,8 +6,8 @@ apt install python3 -y
 git clone https://github.com/Euronymou5/Entunelador
 cd $HOME
 cd Entunelador
-python3 entun.py```
-
+python3 entun.py
+```
 
 # Imagenes
 ![image.png](https://github.com/Euronymou5/Entunelador/raw/main/.imagenes/image.png)
