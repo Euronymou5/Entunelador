@@ -12,7 +12,7 @@ def localhost():
 ██      ██    ██ ██      ███████ ██      ███████ ██    ██ ███████    ██       ██████  ██    ██ ██ ██  ██ 
 ██      ██    ██ ██      ██   ██ ██      ██   ██ ██    ██      ██    ██       ██   ██ ██    ██ ██  ██ ██ 
 ███████  ██████   ██████ ██   ██ ███████ ██   ██  ██████  ███████    ██    ██ ██   ██  ██████  ██   ████''')
-  print('\nElije el puerto a entunelar')
+  print('\nEscribe el puerto a entunelar')
   puerto = int(input('[~] Puerto >> '))
   if type(puerto) == int:
     subprocess.run(
