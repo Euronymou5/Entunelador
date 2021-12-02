@@ -1,5 +1,5 @@
 # Entunelador
-El puerto debe de ser con un numero entero por ejemplo 8080
+El puerto debe de ser con un numero entero por ejemplo si el localhost es http://localhost:8080 el puerto que pondremos sera 8080
 # Instalacion
 ```
 apt install git -y
