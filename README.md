@@ -3,10 +3,13 @@ El puerto debe de ser con un numero entero por ejemplo si el localhost es http:/
 # Instalacion
 ```
 apt install git -y
+
 apt install python3 -y
-cd $HOME
+
 git clone https://github.com/Euronymou5/Entunelador
+
 cd Entunelador
+
 python3 entun.py
 ```
 
